@@ -1,0 +1,39 @@
+.title{
+  background-color: gray;
+}
+
+body{
+  background-color: moccasin;
+}
+
+.first-article{
+  background-color: red;
+}
+
+.second-article{
+  background-color: orange;
+}
+
+.third-article{
+  background-color: #84FB0D;
+}
+
+.fourth-article{
+  background-color: green;
+}
+
+.fifth-article{
+  background-color: blue;
+}
+
+.sixth-article{
+  background-color: purple;
+}
+
+.last-article{
+  background-color: violet;
+}
+
+.footer{
+  background-color: gray;
+}
