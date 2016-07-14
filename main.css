@@ -1,39 +1,93 @@
 .title{
   background-color: gray;
+  padding: 25px; 
 }
 
 body{
   background-color: moccasin;
+  font-size: 10;
+  font-family:;
+  line-height:13px;
+  border-style:solid;
+  border-radius: 6px;
+  padding: 4px;
 }
 
 .first-article{
-  background-color: red;
+  background-color: red;  
+  font-size: 12;
+  font-family:;
+  line-height:15px;
+  border-style:solid;
+  border-radius: 8px;
+  padding: 5px;
 }
 
 .second-article{
   background-color: orange;
+  font-size: 9;
+  font-family:;
+  line-height:16px;
+  border-style:solid;
+  border-radius: 10px;
+  padding: 7px;
 }
 
 .third-article{
   background-color: #84FB0D;
+  font-size: 13;
+  font-family:;
+  line-height:18px;
+  border-style:solid;
+  border-radius: 16px;
+  padding: 3px;
 }
 
 .fourth-article{
   background-color: green;
+  font-size: 11;
+  font-family:;
+  line-height:12px;
+  border-style:solid;
+  border-radius: 20px;
+  padding: 6px;
 }
 
 .fifth-article{
   background-color: blue;
+  font-size: 15;
+  font-family:;
+  line-height:19px;
+  border-style:solid;
+  border-radius: 25px;
+  padding: 8px;
 }
 
 .sixth-article{
   background-color: purple;
+  font-size: 14;
+  font-family:;
+  line-height:22px;
+  border-style:solid;
+  border-radius: 30px;
+  padding: 12px;
 }
 
 .last-article{
   background-color: violet;
+  font-size: 8;
+  font-family:;
+  line-height:23px;
+  border-style:solid;
+  border-radius: 40px;
+  padding: 9px;
 }
 
 .footer{
   background-color: gray;
+  font-size: 10;
+  font-family:;
+  line-height:;
+  border-style:solid;
+  padding: 10px;
 }
